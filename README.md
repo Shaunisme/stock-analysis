@@ -1,5 +1,5 @@
 # Stock-analysis
-use VBA scripting to analyse generated stock market data
+Use VBA scripting to analyse generated stock market data
 # Usages
 1. Click to open "stock-analysis.vbs" scrpit file;
 2. Press CTRL+A to select all script, and press CTRL+C and copy script to clipboard;
