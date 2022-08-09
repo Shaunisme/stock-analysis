@@ -9,8 +9,8 @@ Sub runEverySheet()          'Please run this procedure at all
 End Sub
 
 Sub stockStat()
-    Dim i As Integer         'Row counter
-    Dim j As Integer         'Ticker counter
+    Dim i As long         	'Row counter
+    Dim j As long        	'Ticker counter
     Dim volume As Double     'Total stock volume
     Dim ticker As String
     Dim openingPrice As Double
